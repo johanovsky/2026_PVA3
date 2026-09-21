@@ -1,0 +1,8 @@
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\bin\Debug\20260921_Soubory.exe.config
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\bin\Debug\20260921_Soubory.exe
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\bin\Debug\20260921_Soubory.pdb
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\obj\Debug\20260921_Soubory.csproj.AssemblyReference.cache
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\obj\Debug\20260921_Soubory.csproj.CoreCompileInputs.cache
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\obj\Debug\20260921_Soubory.exe
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\obj\Debug\20260921_Soubory.pdb
+H:\2026\2026_PVA3\20260921_Soubory\20260921_Soubory\obj\Debug\20260921_Soubory.exe.config

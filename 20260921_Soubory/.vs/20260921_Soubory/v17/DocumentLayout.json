@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2026\\2026_PVA3\\20260921_Soubory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B369D93-ECE7-4EC8-9756-0C21B575644F}|20260921_Soubory\\20260921_Soubory.csproj|h:\\2026\\2026_pva3\\20260921_soubory\\20260921_soubory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B369D93-ECE7-4EC8-9756-0C21B575644F}|20260921_Soubory\\20260921_Soubory.csproj|solutionrelative:20260921_soubory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2026\\2026_PVA3\\20260921_Soubory\\20260921_Soubory\\Program.cs",
+              "RelativeDocumentMoniker": "20260921_Soubory\\Program.cs",
+              "ToolTip": "H:\\2026\\2026_PVA3\\20260921_Soubory\\20260921_Soubory\\Program.cs",
+              "RelativeToolTip": "20260921_Soubory\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T06:14:47.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

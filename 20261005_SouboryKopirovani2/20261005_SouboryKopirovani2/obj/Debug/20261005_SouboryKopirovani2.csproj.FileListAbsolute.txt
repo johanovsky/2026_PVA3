@@ -1,0 +1,8 @@
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\bin\Debug\20261005_SouboryKopirovani2.exe.config
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\bin\Debug\20261005_SouboryKopirovani2.exe
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\bin\Debug\20261005_SouboryKopirovani2.pdb
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\obj\Debug\20261005_SouboryKopirovani2.csproj.AssemblyReference.cache
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\obj\Debug\20261005_SouboryKopirovani2.csproj.CoreCompileInputs.cache
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\obj\Debug\20261005_SouboryKopirovani2.exe
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\obj\Debug\20261005_SouboryKopirovani2.pdb
+H:\2026\2026_PVA3\20261005_SouboryKopirovani2\20261005_SouboryKopirovani2\obj\Debug\20261005_SouboryKopirovani2.exe.config

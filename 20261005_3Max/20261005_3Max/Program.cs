@@ -12,7 +12,7 @@ namespace _20261005_3Max
         static void Main(string[] args)
         {
             //cesta k vstupnimu souboru
-            string vstupniSoubor = @"C:\Users\johanovsky\Desktop\pokus.txt";
+            string vstupniSoubor = @"C:\Users\karel\Desktop\pokus.txt";
 
             //kontrola existence
             if(File.Exists(vstupniSoubor)){
@@ -43,16 +43,16 @@ namespace _20261005_3Max
                             max2 = max1;
                             //ulozime max1
                             max1 = cislo;
-                        } else if(cislo > max2)
+                        } else if((cislo < max1) && (cislo > max2))
                         {
-                            //nasel jsem nove max2
+                            //nasel jsem nove max2 mensi jak max1
                             //posuneme stara maxima
                             max3 = max2;
                             //ulozime max2
                             max2 = cislo;
-                        } else if(cislo > max3)
+                        } else if((cislo < max2) && (cislo > max3))
                         {
-                            //nasel jsem nove max3
+                            //nasel jsem nove max3 mensi jak max2
                             //ulozim nove max3
                             max3 = cislo;
                         }

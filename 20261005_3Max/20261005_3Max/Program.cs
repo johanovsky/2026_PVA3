@@ -12,16 +12,16 @@ namespace _20261005_3Max
         static void Main(string[] args)
         {
             //cesta k vstupnimu souboru
-            string vstupniSoubor = @"C:\Users\karel\Desktop\pokus.txt";
+            string vstupniSoubor = @"C:\Users\johanovsky\Desktop\pokus.txt";
 
             //kontrola existence
             if(File.Exists(vstupniSoubor)){
                 //soubor nalezen
 
                 //budu hledat 3 max
-                int max1 = 0;
-                int max2 = 0;
-                int max3 = 0;
+                int max1 = Int32.MinValue;
+                int max2 = Int32.MinValue;
+                int max3 = Int32.MinValue;
 
                 //otevreme cteci proud
                 using(StreamReader sr = File.OpenText(vstupniSoubor))

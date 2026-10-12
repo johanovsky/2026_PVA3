@@ -1,0 +1,8 @@
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\bin\Debug\DesCisla_stat.exe.config
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\bin\Debug\DesCisla_stat.exe
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\bin\Debug\DesCisla_stat.pdb
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\obj\Debug\DesCisla_stat.csproj.AssemblyReference.cache
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\obj\Debug\DesCisla_stat.csproj.CoreCompileInputs.cache
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\obj\Debug\DesCisla_stat.exe
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\obj\Debug\DesCisla_stat.pdb
+H:\2026\2026_PVA3\DesCisla_stat\DesCisla_stat\obj\Debug\DesCisla_stat.exe.config

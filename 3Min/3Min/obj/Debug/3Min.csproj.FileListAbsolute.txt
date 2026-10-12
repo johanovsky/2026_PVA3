@@ -1,0 +1,7 @@
+H:\2026\2026_PVA3\3Min\3Min\bin\Debug\3Min.exe.config
+H:\2026\2026_PVA3\3Min\3Min\bin\Debug\3Min.exe
+H:\2026\2026_PVA3\3Min\3Min\bin\Debug\3Min.pdb
+H:\2026\2026_PVA3\3Min\3Min\obj\Debug\3Min.csproj.AssemblyReference.cache
+H:\2026\2026_PVA3\3Min\3Min\obj\Debug\3Min.csproj.CoreCompileInputs.cache
+H:\2026\2026_PVA3\3Min\3Min\obj\Debug\3Min.exe
+H:\2026\2026_PVA3\3Min\3Min\obj\Debug\3Min.pdb

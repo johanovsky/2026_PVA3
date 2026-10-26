@@ -1,0 +1,8 @@
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\obj\Debug\20261026_Studenti.csproj.AssemblyReference.cache
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\obj\Debug\20261026_Studenti.csproj.CoreCompileInputs.cache
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\bin\Debug\20261026_Studenti.exe.config
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\bin\Debug\20261026_Studenti.exe
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\bin\Debug\20261026_Studenti.pdb
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\obj\Debug\20261026_Studenti.exe
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\obj\Debug\20261026_Studenti.pdb
+H:\2026\2026_PVA3\20261026_Studenti\20261026_Studenti\obj\Debug\20261026_Studenti.exe.config

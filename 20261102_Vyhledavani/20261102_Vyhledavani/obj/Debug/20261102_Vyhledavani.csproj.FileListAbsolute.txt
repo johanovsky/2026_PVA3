@@ -1,0 +1,8 @@
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\bin\Debug\20261102_Vyhledavani.exe.config
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\bin\Debug\20261102_Vyhledavani.exe
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\bin\Debug\20261102_Vyhledavani.pdb
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\obj\Debug\20261102_Vyhledavani.csproj.AssemblyReference.cache
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\obj\Debug\20261102_Vyhledavani.csproj.CoreCompileInputs.cache
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\obj\Debug\20261102_Vyhledavani.exe
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\obj\Debug\20261102_Vyhledavani.pdb
+H:\2026\2026_PVA3\20261102_Vyhledavani\20261102_Vyhledavani\obj\Debug\20261102_Vyhledavani.exe.config
